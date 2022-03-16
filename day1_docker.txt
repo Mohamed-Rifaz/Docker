@@ -1,0 +1,38 @@
+  sudo docker ps -a
+    7  docker pull ubuntu
+    8  sudo docker pull ubuntu
+    9  docker image
+   10  sudo docker image
+   11  sudo docker pull centos
+   12  sudo docker image
+   13  sudo docker container ps
+   14  sudo docker images
+   15  sudo docker run -it -d -p 8080:8080 2b4c
+   16  sudo docker ps
+   17* 
+   18  docker ps
+   19  sudo docker ps
+   20  sudo docker restart 6c0e
+   21  sudo docker ps
+   22  sudo docker run
+   23  sudo docker run -it -d -p 80:8081 2b4c
+   24  sudo docker ps
+   25  sudo docker exec -it 44b1 /bin/bash
+   26  sudo docker ps
+   27  sudo docker restart 44b1
+   28  sudo docker rn -f 44b1 6c0e
+   29  sudo docker rn -f 44b1 
+   30  sudo docker rm -f 44b1 
+   31  sudo docker rm -f  6c0e
+   32  sudo docker ps
+   33  sudo docker images
+   34  sudo docker pull nginx
+   35  sudo docker images
+   36  sudo docker run -it -d -p 80:80 c9190
+   37  sudo docker ps
+   38  history
+
+https://docs.docker.com/engine/install/ubuntu/
+------------------------------------------------------------------------------------------------------------------------------------------
+Day 2
+
