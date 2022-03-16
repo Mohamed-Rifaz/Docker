@@ -25,7 +25,7 @@
    30  sudo docker rm -f 44b1 
    31  sudo docker rm -f  6c0e
    32  sudo docker ps
-   33  sudo docker images
+   33  sudo docker images #
    34  sudo docker pull nginx
    35  sudo docker images
    36  sudo docker run -it -d -p 80:80 c9190
